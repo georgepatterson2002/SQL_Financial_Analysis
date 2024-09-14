@@ -203,5 +203,5 @@ This project provides a practical application of SQL for financial analysis in r
 
 ## How to Use
 
-1. **Set Up the Database**: Run the SQL ‘CREATE TABLE’ script provided in the `sql_queries.sql` file to create the database. Import the data found in ‘SQL - Retail Sales Analysis_utf.csv’ using a RDBMS of your choice.
+1. **Set Up the Database**: Run the SQL ‘CREATE TABLE’ script provided in the `sql_queries.sql` file to create the database. Import the data found in `SQL - Retail Sales Analysis_utf.csv` using a RDBMS of your choice.
 2. **Run the Queries**: Use the SQL queries found below in `sql_queries.sql` to clean the data and perform the analysis.
